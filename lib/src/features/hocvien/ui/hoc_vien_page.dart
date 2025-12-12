@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:woori_app/src/features/main/ui/widgets/main_header.dart';
 
-import 'widgets/chip_filter.dart';
+import '../../main/ui/widgets/chip_filter.dart';
 
 class HocVienPage extends StatelessWidget {
   const HocVienPage({super.key});

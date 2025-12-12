@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:woori_app/src/features/main/ui/widgets/main_header.dart';
 
-import 'widgets/dashboard_stat_card.dart';
+import '../../main/ui/widgets/dashboard_stat_card.dart';
 
 class DashboardPage extends StatelessWidget {
   const DashboardPage({super.key});

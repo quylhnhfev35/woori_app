@@ -7,4 +7,7 @@ class AppConstants {
 
   static const String loginPath = '/api/auth/login';
   static const String registerPath = '/api/auth/register';
+
+  static const buoiTapPath = '/api/buoi-tap';
+  static const buoiTapSummaryPath = '/api/buoi-tap/summary';
 }

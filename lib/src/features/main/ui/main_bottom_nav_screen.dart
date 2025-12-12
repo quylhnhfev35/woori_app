@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'dashboard_page.dart';
-import 'lich_day_page.dart';
-import 'lop_hoc_page.dart';
-import 'hoc_vien_page.dart';
-import 'thanh_toan_page.dart';
+import '../../dashboard/ui/dashboard_page.dart';
+import '../../lichday/ui/lich_day_page.dart';
+import '../../lophoc/ui/lop_hoc_page.dart';
+import '../../hocvien/ui/hoc_vien_page.dart';
+import '../../thanhtoan/ui/thanh_toan_page.dart';
 
 class MainBottomNavScreen extends StatefulWidget {
   const MainBottomNavScreen({super.key});
